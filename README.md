@@ -55,6 +55,8 @@ __barnacles-agora__ translates the standard dynamb properties, [as specified by 
 | angleOfRotation   | angle-degree             |
 | batteryPercentage | battery-percentage       |
 | illuminance       | brightness-lux           |
+| isContactDetected | switch                   |
+| isMotionDetected  | activityDetection        |
 | pressure          | pressure-hpa             |
 | relativeHumidity  | humidity-percentage      |
 | temperature       | temperature-celsius      |
